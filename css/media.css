@@ -1,0 +1,157 @@
+/* 1601 - 1920 px */
+@media screen and (max-width: 1920px) {
+   
+}
+
+
+/* 1369 - 1600 px */
+@media screen and (max-width: 1600px) {
+    .header-text p{
+        font-size: 23pt;
+    }
+    .about-group p {
+        font-size: 23pt;
+    }
+    .services-group p {
+        font-size: 23pt;
+    }
+    .specialize-item p {
+        font-size: 23pt;
+    }
+    .contact-group p {
+        font-size: 23pt;
+    }
+    .footer > .container p {
+        font-size: 20pt;
+    }
+}
+
+
+/* 961 - 1368 px */
+@media screen and (max-width: 1368px) {
+    .works > .container {
+        width: 80%;
+    }
+    .works-block span {
+        left: 10px;
+        bottom: 40px;
+        font-size: 15pt;
+    }
+}
+
+
+/* 769  - 960 px */
+@media screen and (max-width: 960px) {
+    
+}
+
+
+/* 481 - 768 px */
+@media screen and (max-width: 768px) {
+.container{
+        width: 100%;
+        margin: 0 auto;
+    }
+    .about-group {
+        margin: 2px;
+        padding: 0;
+    }
+    .contact-group {
+        margin: 2px;
+        padding: 0;
+        padding-bottom: 2%;
+    }
+    .specialize-group{
+        margin-top: 2%;
+        padding: 0;
+    }
+    .services-group {
+        margin: 0;
+        padding: 0;
+    }
+    .works-block span {
+        bottom: 30px;
+        font-size: 10pt;
+    }
+    .footer > .container p {
+        font-size: 15pt;
+    }
+}
+
+
+/* 320 - 480 px */
+@media screen and (max-width: 480px) {
+    .about > .container {
+        width: 100%;
+        margin: 0 auto;
+        margin: 0;
+        padding: 0;
+    }
+    .services > .container {
+        width: 100%;
+        margin: 0 auto;
+        margin: 0;
+        padding: 0;
+    }
+    .specialize > .container {
+        width: 100%;
+        margin: 0 auto;
+        margin: 0;
+        padding: 0;
+    }
+    .contact> .container {
+        width: 100%;
+        margin: 0 auto;
+        margin: 0;
+        padding: 0;
+    }
+    .specialize-group {
+        margin: 0;
+        padding: 0;
+    }
+    .header-text p{
+        font-size: 15pt;
+    }
+    .about-group p {
+        font-size: 15pt;
+    }
+    .services-group p {
+        font-size: 15pt;
+    }
+    .specialize-item p {
+        font-size: 15pt;
+    }
+    .contact-group p {
+        font-size: 15pt;
+    }
+    .footer > .container p {
+        font-size: 15pt;
+    }
+    .contact-legend {
+        padding: 0 50px;
+        font-size: 25pt;
+        font-weight: 300;
+    }
+    .about-group {
+        margin: 0;
+        padding: 0;
+    }
+    .contact-group {
+        margin: 0;
+        padding: 0;
+        padding-bottom: 0;
+    }
+    .specialize-group{
+        margin-top: 0;
+        padding: 0;
+    }
+    .services-group {
+        margin: 0;
+        padding: 0;
+    }
+    .contact-group button {
+        width: 200px;
+        height: 30px;
+        font-size: 12pt;
+    }
+}
